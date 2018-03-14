@@ -1,18 +1,12 @@
-# calculator of circle area
+# calculator of area
 
 #####################################
-### define a new varibale called pi #
+### define a new varibale called a #
 #####################################
-pi = 3.1415
-#########################################
-### define a new varibale called radius #
-#########################################
-radius = 2.2
+a = 2
 ########################################################
 ### define area and save the value of expression to it #
 ########################################################
-area = pi * (radius ** 2)
-############################################
-## print the calculated area of the circle #
-############################################
+area = a*a
+
 print(area)
